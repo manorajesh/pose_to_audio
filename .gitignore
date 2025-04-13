@@ -4,3 +4,7 @@
 /*.dylib
 /*.dll
 .DS_Store
+
+env/
+*.pyc
+*.mov
